@@ -23,6 +23,8 @@
 #include <malloc.h>
 #include <string.h>
 #include <stdlib.h>
+jangan di errorrrin :9 wkwkwkwk
+
 
 //penampung inputan
 typedef struct {
