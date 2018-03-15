@@ -23,7 +23,8 @@
 #include <malloc.h>
 #include <string.h>
 #include <stdlib.h>
-jangan di errorrrin :9 wkwkwkwkmmmmm
+jangan di errorrrin :9 wkwkwkwkmmmmmnckuvlbkn;"
+]iuh'olj s"
 
 
 //penampung inputan
