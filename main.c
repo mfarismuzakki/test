@@ -9,7 +9,7 @@
 //																																							//
 //																																							//
 //																																							//
-//											     	 CODED BY : Muhammad Faris Muzakki 1606923 			   													//
+//								kwkwkwkwwk			     	 CODED BY : Muhammad Faris Muzakki 1606923 			   													//
 //														    		ILMU KOMPUTER 2016																		//
 //																																							//
 //                                              Saya Muhammad Faris Muzakki Mengerjakan evaluasi TMD		        										//
