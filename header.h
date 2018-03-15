@@ -28,7 +28,7 @@ jangan di errorrrin :9 wkwkwkwkmmmmm
 
 //penampung inputan
 typedef struct {
-	char kebaikan[500];
+	// char kebaikan[500];
 }container;
 
 //-----------------List1-------------------//
